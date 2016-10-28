@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Group-Id: org.jenkinsci.plugins
+Short-Name: statusReport
+Long-Name: statusReport
+Url: https://wiki.jenkins-ci.org/display/JENKINS/TODO+Plugin
+Plugin-Version: 1.0-SNAPSHOT (private-10/28/2016 10:45-ayachenya)
+Hudson-Version: 1.625.3
+Jenkins-Version: 1.625.3
+Plugin-Developers: 
+Libraries: C:\Users\ayachenya\statusReport\src\main\resources,C:\Users
+ \ayachenya\statusReport\target\classes
+Resource-Path: C:\Users\ayachenya\statusReport\src\main\webapp
+

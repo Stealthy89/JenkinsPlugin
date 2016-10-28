@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Built-By: ayachenya
+Created-By: Apache Maven
+Build-Jdk: 1.8.0_66
+Extension-Name: statusReport
+Specification-Title: statusReport
+Implementation-Title: statusReport
+Implementation-Version: 1.0-SNAPSHOT
+Group-Id: org.jenkinsci.plugins
+Short-Name: statusReport
+Long-Name: statusReport
+Url: https://wiki.jenkins-ci.org/display/JENKINS/TODO+Plugin
+Plugin-Version: 1.0-SNAPSHOT (private-10/22/2016 16:17-ayachenya)
+Hudson-Version: 1.625.3
+Jenkins-Version: 1.625.3
+Plugin-Developers: 
+
