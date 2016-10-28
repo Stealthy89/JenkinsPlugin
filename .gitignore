@@ -1,6 +1,7 @@
 #Ignore following folders:
 
 .idea/
+.target
 out/
 *.iml
 
