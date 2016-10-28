@@ -1,5 +1,0 @@
-org\jenkinsci\plugins\statusReport\HelloWorldBuilder\DescriptorImpl\doCheckName.stapler
-org\jenkinsci\plugins\statusReport\HelloWorldBuilder.stapler
-org\jenkinsci\plugins\statusReport\HelloWorldBuilder.class
-org\jenkinsci\plugins\statusReport\HelloWorldBuilder$DescriptorImpl.class
-META-INF\annotations\hudson.Extension
