@@ -1,0 +1,8 @@
+<j:jelly xmlns:j="jelly:core" xmlns:st="jelly:stapler" xmlns:d="jelly:define" xmlns:l="/lib/layout" xmlns:t="/lib/hudson" xmlns:f="/lib/form">
+    <div>
+        ${%Summary}<br/>
+        <j:if test="${descriptor.autoRefreshActive}">
+            <b style="color:red">${%Warning}</b> ${%AutoRefreshWarningText}
+        </j:if>
+    </div>
+</j:jelly>
